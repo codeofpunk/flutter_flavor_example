@@ -3,7 +3,7 @@ import 'package:flutter_flavor_example/app_config.dart';
 import 'package:flutter/material.dart';
 
 void main() async {
-  AppConfig devAppConfig = AppConfig(appName: 'Flavor Example Dev', flavor: 'dev');
+  AppConfig devAppConfig = AppConfig(appName: 'Flavor Example Dev', flavor: 'dev',name:'bu bir dev');
   Widget app = await initializeApp(devAppConfig);
   runApp(app);
 }
