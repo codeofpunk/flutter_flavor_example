@@ -1,6 +1,6 @@
 # flutter_flavor_example
 
-A new Flutter project.
+Flutter Flavor profiles usage example
 
 ## Getting Started
 
